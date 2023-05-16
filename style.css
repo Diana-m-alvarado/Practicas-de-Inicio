@@ -1,0 +1,19 @@
+body{
+    /* Color de fondo */
+    background-color: rgb(107, 107, 179);
+    color: rgb(243, 243, 167);
+    font-family: 'Roboto Mono', monospace;
+}
+
+p{
+    color: rgb(61, 34, 87);
+}
+
+img{
+    width: 600px;
+}
+
+h1{
+    color: rgb(7, 6, 6);
+    font-family: 'Roboto Mono', monospace;
+}
